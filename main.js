@@ -93,6 +93,11 @@ document.addEventListener("DOMContentLoaded",function(){
             text:"Rss",
             link:"rss.xml",
         },
+        doc:{
+          icon:"fa fa-file",
+          text:"Documentation",
+          link:"",
+        },
         socials:[
             {icon:"fa fa-facebook",link:"https://www.facebook.com/"},
             {icon:"fa fa-twitter",link:"https://x.com/?lang=en"},
@@ -102,7 +107,7 @@ document.addEventListener("DOMContentLoaded",function(){
         
     };
     let infocontainer=document.querySelector(".ovde");
-    let infoarray=["address","phone","email","sitemap","rss"];
+    let infoarray=["address","phone","email","sitemap","rss","doc"];
     
     for(let i=0;i<infoarray.length;i++){
         let key=infoarray[i];
