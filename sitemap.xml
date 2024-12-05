@@ -2,33 +2,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://stometologijaanicic.000webhostapp.com/index.html</loc>
-        <lastmod>2024-12-6</lastmod>
+        <loc>https://milan722.github.io/AMechanic/index.html</loc>
+        <lastmod>2024-12-5</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://stometologijaanicic.000webhostapp.com/pages/usluge.html</loc>
-        <lastmod>2024-12-6</lastmod>
+        <loc>https://milan722.github.io/AMechanic/about.html</loc>
+        <lastmod>2024-12-5</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://stometologijaanicic.000webhostapp.com/pages/kontakt.html</loc>
-        <lastmod>2024-12-6</lastmod>
+        <loc>https://milan722.github.io/AMechanic/service.html</loc>
+        <lastmod>2024-12-5</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.55</priority>
     </url>
     <url>
-        <loc>https://stometologijaanicic.000webhostapp.com/pages/galerija.html</loc>
-        <lastmod>2024-12-6</lastmod>
+        <loc>https://milan722.github.io/AMechanic/author.html</loc>
+        <lastmod>2024-12-5</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.52</priority>
     </url>
-    <url>
-        <loc>https://stometologijaanicic.000webhostapp.com/pages/autor.html</loc>
-        <lastmod>2024-12-6</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
+    
 </urlset>
