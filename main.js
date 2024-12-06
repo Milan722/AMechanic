@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded",function(){
         doc:{
           icon:"fa fa-file",
           text:"Documentation",
-          link:"",
+          link:"documentation.pdf",
         },
         socials:[
             {icon:"fa fa-facebook",link:"https://www.facebook.com/"},
@@ -230,11 +230,11 @@ function Services(startIndex, endIndex) {
 //client section JQUERY
 $(document).ready(function () {
     $(".owl-carousel").owlCarousel({
-      loop: true,             // Enable continuous looping
-      margin: 10,             // Margin between items
-      nav: true,              // Show next/prev buttons
-      autoplay: true,         // Enable auto play
-      autoplayTimeout: 4000,  // Auto play delay (5 seconds)
+      loop: true,             
+      margin: 10,             
+      nav: true,              
+      autoplay: true,         
+      autoplayTimeout: 4000,  
       responsive: {
         0: {
           items: 1,           // 1 item
