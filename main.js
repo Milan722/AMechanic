@@ -353,7 +353,7 @@ else{
 }
 if(brojgresaka==0){
   document.querySelector("#ispis").innerHTML="You have successfully contacted us, we are coming.";
-}
+}else document.querySelector("#ispis").innerHTML="";
 
 })
 //kraj forme
